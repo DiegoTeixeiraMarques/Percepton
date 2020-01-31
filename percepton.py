@@ -1,3 +1,4 @@
+# feita alteração de teste
 pesos = [1, 1, 1]
 vies = 1
 coeficiente = 0.3
